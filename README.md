@@ -1,0 +1,2 @@
+# myfirstproject
+İlk Blog Sayfam
